@@ -5,7 +5,7 @@ C project starter
 
 ## Install
 
-### CPP
+### C
 
 For this project you need to install C libraries
 
